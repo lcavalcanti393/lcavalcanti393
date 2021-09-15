@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Cavalcanti,
    Atualmente estou cursando Matemática pela Universidade Federal de Catalão (UFCAT) e tenho grande interesse em Computação.
    
-   Segue abaixo algumas das tecnologias pelas quais já passei, mesmo que nem todas estejam presentes neste repositório.  
+   Segue abaixo algumas das tecnologias pelas quais já passei.  
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Linguagem C" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
