@@ -1,4 +1,6 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/67709472/209714244-dc8d5cc4-9743-40ab-8d7f-b1060d6cdb0a.gif)
+<div text-align="center">
+   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67709472/209714244-dc8d5cc4-9743-40ab-8d7f-b1060d6cdb0a.gif)
+</div>
 
    
 ## Linguagens
