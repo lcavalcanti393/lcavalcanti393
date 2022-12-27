@@ -3,9 +3,9 @@
 <p align="center">Interessado em Tecnologia e Matemática, busco conhecer mais sobre Ciência da Computação. </br>
 Hoje meu foco é Desenvolvimento Web.</p>
 
-<img>
- ![GIF](https://user-images.githubusercontent.com/67709472/209714244-dc8d5cc4-9743-40ab-8d7f-b1060d6cdb0a.gif)
-</img>
+
+ --![GIF](https://user-images.githubusercontent.com/67709472/209714244-dc8d5cc4-9743-40ab-8d7f-b1060d6cdb0a.gif)
+
 
 ## Linguagens
 <div style="display: inline_block"><br>
