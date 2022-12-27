@@ -1,6 +1,9 @@
 <h2>Olá, <a href="https://www.linkedin.com/in/lucasmirandacavalcanti/">Lucas Cavalcanti</a></h2>
 
-\t![ezgif com-gif-maker](https://user-images.githubusercontent.com/67709472/209714244-dc8d5cc4-9743-40ab-8d7f-b1060d6cdb0a.gif)
+Interessado em Tecnologia e Matemática, busco conhecer mais sobre Ciência da Computação.
+Hoje meu foco é Desenvolvimento Web.
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67709472/209714244-dc8d5cc4-9743-40ab-8d7f-b1060d6cdb0a.gif)
    
 ## Linguagens
 <div style="display: inline_block"><br>
