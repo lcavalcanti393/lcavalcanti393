@@ -1,4 +1,4 @@
-![Alt Text](https://giphy.com/embed/NytMLKyiaIh6VH9SPm)
+![Alt Text]([https://giphy.com/embed/NytMLKyiaIh6VH9SPm](https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=790b761182390b33baa52609b58a47639be168c11eedbd60&rid=giphy.gif&ct=g))
    
 ## Linguagens
 <div style="display: inline_block"><br>
