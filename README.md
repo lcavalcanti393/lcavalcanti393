@@ -1,4 +1,6 @@
-\U{1F44B} <h2>Olá, <a href="https://www.linkedin.com/in/lucasmirandacavalcanti/">Lucas Cavalcanti</a></h2>
+<meta charset="UTF-8">
+
+<h2>Olá, <a href="https://www.linkedin.com/in/lucasmirandacavalcanti/">Lucas Cavalcanti</a></h2> \u{1F44B}
 
 <p align="center">Interessado em Tecnologia e Matemática, busco conhecer mais sobre Ciência da Computação. </br>
 Hoje meu foco é Desenvolvimento Web.</p>
