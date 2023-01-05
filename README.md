@@ -26,7 +26,7 @@ Hoje meu foco é Desenvolvimento Web.</p>
   <img align="center" alt="React" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Node" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Laravel" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img align="center" alt="Sass" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <!-- <img align="center" alt="Sass" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
   <img align="center" alt="Bootstrap" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 ## Interesses
