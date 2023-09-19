@@ -3,7 +3,7 @@
 <h2>Olá, eu sou <a href="https://www.linkedin.com/in/lucasmirandacavalcanti/">Lucas Cavalcanti</a> 👋</h2> 
 
 <p align="center">Interessado em Tecnologia e Matemática, busco conhecer mais sobre Ciência da Computação. </br>
-Hoje meu foco é Desenvolvimento Web.</p>
+</p>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/67709472/209714244-dc8d5cc4-9743-40ab-8d7f-b1060d6cdb0a.gif" alt="gif"/>
