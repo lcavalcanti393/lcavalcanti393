@@ -2,7 +2,8 @@
 
 <h2>Olá, eu sou <a href="https://www.linkedin.com/in/lucasmirandacavalcanti/">Lucas Cavalcanti</a> 👋</h2> 
 
-<p align="center">Interessado em Tecnologia e Matemática, busco conhecer mais sobre Ciência da Computação. </br>
+<p align="center">Interessado em Tecnologia, Matemática, Biblioteconomia...</br>
+ busco conhecer mais sobre Ciência da Computação.
 </p>
 
 <p align="center">
